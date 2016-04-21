@@ -58,7 +58,6 @@ int main() {
 		plik << czas << endl;
 	}
 
-
 	//Sortowanie algorytmem Quicksort
 	kopia(tab1, tab2, ile);
 	//Sortowanie właściwe
